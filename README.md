@@ -1,2 +1,2 @@
 # SelfDefence
-Several sef defence methods for rootkist
+Several self defence methods for rootkits
